@@ -17,6 +17,7 @@ public class TpGrupalLab1 {
         // el proximo sout puede ser eliminado o modificado
         
         System.out.println("Esto es una prueba....");
+        System.out.println("Soy Blas, esto tambien es una prueba.");
     }
     
 }
